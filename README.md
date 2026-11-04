@@ -45,3 +45,4 @@ An end-to-end enterprise Identity and Access Management (IAM) homelab simulating
 * **IAM Automation:** Developed PowerShell scripts to automate user provisioning, attribute standardization, and group memberships.
 * **Access Governance:** Configured departmental network shares mapped to role-based security groups.
 * **Hybrid Cloud IAM:** Implemented and validated identity synchronization between on-premises Active Directory and Microsoft Entra ID.
+* 
