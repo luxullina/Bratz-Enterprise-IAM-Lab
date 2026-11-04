@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" height="220">
+  <defs>
+    <linearGradient id="bratzGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#64382E"/>
+      <stop offset="25%" stop-color="#97524B"/>
+      <stop offset="50%" stop-color="#8B3B62"/>
+      <stop offset="75%" stop-color="#82559F"/>
+      <stop offset="100%" stop-color="#694668"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="14" fill="url(#bratzGrad)"/>
+  <text x="50%" y="46%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="44" font-weight="700" letter-spacing="1">Bratz.lab IAM Infrastructure</text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="#f3e8ee" font-family="Segoe UI, Ubuntu, sans-serif" font-size="20" font-weight="400" letter-spacing="0.5">Enterprise Hybrid Identity &amp; Access Management Portfolio</text>
+</svg>

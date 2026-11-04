@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=200&section=header&text=Bratz.lab%20IAM%20Infrastructure&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Enterprise%20Hybrid%20Identity%20%26%20Access%20Management%20Portfolio&descAlignY=58&descSize=18" alt="Bratz.lab Banner"/>
+  <img width="100%" src="./assets/banner.svg" alt="Bratz.lab Banner"/>
   <br/>
   <img src="https://img.shields.io/badge/Windows_Server_2022-64382E?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server 2022"/>
   <img src="https://img.shields.io/badge/Active_Directory-97524B?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory"/>
@@ -46,6 +46,5 @@ An end-to-end enterprise Identity and Access Management (IAM) homelab simulating
 * **Access Governance:** Configured departmental network shares mapped to role-based security groups.
 * **Hybrid Cloud IAM:** Implemented and validated identity synchronization between on-premises Active Directory and Microsoft Entra ID.
 
-<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,3,2,1,0&height=110&section=footer" alt="Footer"/>
 </div>
