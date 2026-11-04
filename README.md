@@ -10,13 +10,13 @@
 
 <br/>
 
-## 📌 Project Overview
+## Project Overview
 
 An end-to-end enterprise Identity and Access Management (IAM) homelab simulating a hybrid corporate environment (`Bratz.lab`). Built to mirror real-world identity engineering workflows, this project demonstrates structured Active Directory architecture, automated lifecycle provisioning via PowerShell, least-privilege network file share governance, and hybrid cloud synchronization with Microsoft Entra ID.
 
 ---
 
-## 🗺️ Architecture & Topology
+## Architecture & Topology
 
 * **Hypervisor:** VMware Workstation Pro
 * **Domain Controller:** Windows Server 2022 (`bratz.lab`)
@@ -27,7 +27,7 @@ An end-to-end enterprise Identity and Access Management (IAM) homelab simulating
 
 ---
 
-## 🛠️ Lab Phases & Documentation
+## Lab Phases & Documentation
 
 | Phase | Focus Area | Key Technologies & Deliverables |
 | :--- | :--- | :--- |
@@ -39,12 +39,9 @@ An end-to-end enterprise Identity and Access Management (IAM) homelab simulating
 
 ---
 
-## 💻 Key Capabilities Demonstrated
+## Key Capabilities Demonstrated
 
 * **Directory Architecture:** Engineered a scalable OU structure and security group hierarchy following least-privilege principles.
 * **IAM Automation:** Developed PowerShell scripts to automate user provisioning, attribute standardization, and group memberships.
 * **Access Governance:** Configured departmental network shares mapped to role-based security groups.
 * **Hybrid Cloud IAM:** Implemented and validated identity synchronization between on-premises Active Directory and Microsoft Entra ID.
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,3,2,1,0&height=110&section=footer" alt="Footer"/>
-</div>
